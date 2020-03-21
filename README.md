@@ -2,6 +2,11 @@
 
 Make PS4 controller (Dualshock 4) into computer mouse with Python
 
+## Feature
+- Left stick to move mouse pointer
+- Right stick to scroll
+- Circle button to click
+
 ## Dependency
 
 - Python 3
